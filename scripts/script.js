@@ -23,6 +23,7 @@ const monthNames = [
   'July',
   'August',
   'September',
+  'October',
   'November',
   'December',
 ]
